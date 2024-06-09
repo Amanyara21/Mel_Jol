@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "477930628198",
+    "project_id": "mel-jol-app",
+    "storage_bucket": "mel-jol-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:477930628198:android:0a2d3d95f8db835ef139a7",
+        "android_client_info": {
+          "package_name": "com.mel_jol"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "477930628198-6blldqq6t2r3i7tqs52en977dhlv0n4p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mel_jol",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "477930628198-junaqt5ortgmvamilphc98spcuoafl06.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgfa26HBUSWkAh4nNoWaz3lZS1WwKaV2w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "477930628198-junaqt5ortgmvamilphc98spcuoafl06.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
